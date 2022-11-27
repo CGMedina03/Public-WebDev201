@@ -116,7 +116,7 @@ tfoot {
 }
 /* for the color coded names and values */
 li {
-  border-radius: 5px 10px 10px 5px;
+  border-radius: 5px 8px 8px 5px;
 }
 li:nth-child(1),
 #abiera {
