@@ -45,7 +45,6 @@ h1 {
   margin-left: auto;
   margin-top: -290px;
   font-size: 20px;
-  font-size: 20px;
 }
 .members {
   border-style: none none solid none;
@@ -55,8 +54,6 @@ h1 {
 }
 p {
   text-align: justify;
-  padding-top: 2px;
-  padding: 1px;
   margin-left: 10px;
   margin-right: 5px;
 }
